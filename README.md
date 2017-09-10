@@ -1,7 +1,3 @@
-# App Academy Work
-Work I completed during the August 2014 cohort of [App Academy][app-academy].
-
-[app-academy]: http://www.appacademy.io
 
 ## Week 1
 ### Mastermind ( [code][mastermind] )
